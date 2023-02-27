@@ -1,6 +1,6 @@
 ![This is an image](/profile/thread-logo.jpg) 
-### WP3 Advanced geometric integrators
-Deliverable D3.2 – Open-source code (time integration)
+### WP2 Interactions of 1D structures in a 3D world
+Deliverable D2.3 – Open-source code for slender structures
 ### THREAD 
 Joint Training on Numerical Modelling of Highly Flexible Structures for Industrial Applications
 
